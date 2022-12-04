@@ -13,12 +13,11 @@
 
 - 👋 Hi, I’m @yyanhan
 
-- A bachelor student in Germany
+- A student in Germany
 - Learning and Programming make me happy
 
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on 👀 I don't know ...
+- 💞️ I’m looking to collaborate on RL, NLP
 - 📫 How to reach me yhde93@gmail.com
 
 <!---
