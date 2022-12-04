@@ -24,3 +24,18 @@
 yyanhan/yyanhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+My projects:
+
+bachelor's thesis see: 
+> https://github.com/yyanhan/bachelor_thesis_differenable_rl
+
+informatiCup2022 see:
+> https://github.com/Team-Zugig-zum-Erfolg/InformatiCup
+
+my GitLab see:
+> https://gitlab.com/HaanYaag
+
+word2vec proj see:
+> https://github.com/yyanhan/word2vec_proj
