@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-My projects:
+## My projects:
 
 bachelor's thesis see: 
 > https://github.com/yyanhan/bachelor_thesis_differenable_rl
