@@ -39,3 +39,7 @@ my GitLab see:
 
 word2vec proj see:
 > https://github.com/yyanhan/word2vec_proj
+
+a draw & guess game by neural network, see:
+
+> https://github.com/yyanhan/Draw_Guess_NeuralNetwork_Java
